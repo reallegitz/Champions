@@ -1,0 +1,15 @@
+C:\Users\alpoente -  tipo3\Desktop\Prog\ProjetoChampions\ProjetoChampions\obj\Debug\net6.0\ProjetoChampions.csproj.AssemblyReference.cache
+C:\Users\alpoente -  tipo3\Desktop\Prog\ProjetoChampions\ProjetoChampions\obj\Debug\net6.0\ProjetoChampions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpoente -  tipo3\Desktop\Prog\ProjetoChampions\ProjetoChampions\obj\Debug\net6.0\ProjetoChampions.AssemblyInfoInputs.cache
+C:\Users\alpoente -  tipo3\Desktop\Prog\ProjetoChampions\ProjetoChampions\obj\Debug\net6.0\ProjetoChampions.AssemblyInfo.cs
+C:\Users\alpoente -  tipo3\Desktop\Prog\ProjetoChampions\ProjetoChampions\obj\Debug\net6.0\ProjetoChampions.csproj.CoreCompileInputs.cache
+C:\Users\alpoente -  tipo3\Desktop\Prog\ProjetoChampions\ProjetoChampions\bin\Debug\net6.0\ProjetoChampions.exe
+C:\Users\alpoente -  tipo3\Desktop\Prog\ProjetoChampions\ProjetoChampions\bin\Debug\net6.0\ProjetoChampions.deps.json
+C:\Users\alpoente -  tipo3\Desktop\Prog\ProjetoChampions\ProjetoChampions\bin\Debug\net6.0\ProjetoChampions.runtimeconfig.json
+C:\Users\alpoente -  tipo3\Desktop\Prog\ProjetoChampions\ProjetoChampions\bin\Debug\net6.0\ProjetoChampions.dll
+C:\Users\alpoente -  tipo3\Desktop\Prog\ProjetoChampions\ProjetoChampions\bin\Debug\net6.0\ProjetoChampions.pdb
+C:\Users\alpoente -  tipo3\Desktop\Prog\ProjetoChampions\ProjetoChampions\obj\Debug\net6.0\ProjetoChampions.dll
+C:\Users\alpoente -  tipo3\Desktop\Prog\ProjetoChampions\ProjetoChampions\obj\Debug\net6.0\refint\ProjetoChampions.dll
+C:\Users\alpoente -  tipo3\Desktop\Prog\ProjetoChampions\ProjetoChampions\obj\Debug\net6.0\ProjetoChampions.pdb
+C:\Users\alpoente -  tipo3\Desktop\Prog\ProjetoChampions\ProjetoChampions\obj\Debug\net6.0\ProjetoChampions.genruntimeconfig.cache
+C:\Users\alpoente -  tipo3\Desktop\Prog\ProjetoChampions\ProjetoChampions\obj\Debug\net6.0\ref\ProjetoChampions.dll
